@@ -54,7 +54,7 @@
         <dependency.commons-lang.version>3.8.1</dependency.commons-lang.version>
         <dependency.commons-text.version>1.6</dependency.commons-text.version>
         <dependency.commons-codec.version>1.12</dependency.commons-codec.version>
-        <dependency.commons-io.version>2.6</dependency.commons-io.version>
+        <dependency.commons-io.version>2.7</dependency.commons-io.version>
         <dependency.fasterxml-uuid>3.1.5</dependency.fasterxml-uuid>
         <dependency.logback-classic.version>1.2.3</dependency.logback-classic.version>
         <dependency.testng.version>6.14.3</dependency.testng.version>
